@@ -1,0 +1,11 @@
+{
+  "name": "compass",
+  "version": "0.0.1",
+  "description": "Personalized trip planning tool that helps users find the perfect vacation based on their unique preferences. Whether they're traveling solo, with family, or a group of friends, the app takes into account factors like group size, weather, cost, activities, distance, length of stay, and types of landscapes to suggest the best trip options for them. Users can choose from a wide range of activities, such as hiking, sightseeing, beach lounging, and cultural experiences, and the app will suggest destinations and itineraries that match their interests. The app also provides information on the local culture, cuisine, and customs, as well as practical details like transportation and accommodation options. With the app, users can easily compare different trip options, customize their itinerary, and book their travel arrangements all in one place. With a focus on personalized recommendations and convenience, the travel app is the ultimate tool for travelers who want to plan a memorable trip that's tailored to their unique needs and preferences.",
+  "main": "dist/index.js",
+  "author": "Tome Jesus",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
